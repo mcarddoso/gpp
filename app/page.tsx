@@ -19,7 +19,7 @@ export default function Home() {
               <span>Sua marca,</span>
               <span>nossa impressão.</span>
               <Link href="https://www.geradoor.com/2fc6c6" target="_blank">
-                <Button variant="default" className="mt-8 text-lg cursor-pointer">
+                <Button variant="link" className="mt-8 text-lg cursor-pointer">
                   Fale conosco
                   <ArrowRightIcon className="size-5" />
                 </Button>
